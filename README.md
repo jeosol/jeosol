@@ -2,7 +2,7 @@
 
 I have an engineer with interests in optimization, machine learning/AI, software development of large and complex software. These days I primarily program in Python and Common Lisp but in the past I haved with Matlab and C/C++.
 
-- In the past 4-5 years, I worked on a large-scale integrated application (~260 KLOC in Common Lisp) that is not hosted on Github. However, I am allowed to show other summaries or visualizations of the repository and here is a Gource visualization of the repository updated till September 2021. Also, <a href="https://github.com/jeosol/aiml/blob/main/remote_simulation_analysis.ipynb"> "here: </a> is a page showing one of the applications of the tool for performing remote physics simulations (also called reservoir simulation in oil and gas industry). 
+- In the past 4-5 years, I worked on a large-scale integrated application (~260 KLOC in Common Lisp) that is not hosted on Github. However, I am allowed to show other summaries or visualizations of the repository and here is a Gource visualization of the repository updated till September 2021. Also, <a href="https://github.com/jeosol/aiml/blob/main/remote_simulation_analysis.ipynb"> here </a> is a page showing one of the applications of the tool for performing remote physics simulations (also called reservoir simulation in oil and gas industry). 
 
 - I am also involved in developing web interfaces for the above project using Django and React. 
 
