@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an engineer with interests in optimization, machine learning/AI, large-scale software design and implementation. I studied Petroleum Engineering in school (Stanford University) and my research focused on developing efficient algorithms and workflows for large optimization problems with application focused in the oil and gas industry. 
+I am an engineer with interests in optimization, machine learning/AI, large-scale software design and implementation. I studied Petroleum Engineering in school and my research focused on developing efficient algorithms and workflows for large optimization problems with application focused in the oil and gas industry. 
 
 These days I primarily program in **Python** and **Common Lisp** but in the past I haved used other programming languages like **Prolog**, **Matlab** and **C/C++**.
 
