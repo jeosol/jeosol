@@ -2,7 +2,7 @@
 
 I am an engineer with interests in optimization, machine learning/AI, large-scale software design and implementation. I studied Petroleum Engineering in school and my research focused on developing efficient algorithms and workflows for large optimization problems with application focused in the oil and gas industry. 
 
-These days I primarily program in **Python** and **Common Lisp** but in the past I haved used other programming languages like **Prolog**, **Matlab** and **C/C++**.
+These days I primarily program in **Python** and **Common Lisp** but in the past I have used other programming languages like **Prolog**, **Matlab** and **C/C++**.
 
 - I designed and implemented a large-scale integrated scientific application (~260 KLOC in Common Lisp). The application is implemented using a monolithic repository (monorepo) model. The repository is not hosted on publicly but I can show other summaries or visualizations of the repository and <a href="https://youtu.be/9MBzpy3MYfs">here</a> is a Gource visualization of the repository (last update 9/3/2021). Also, <a href="https://github.com/jeosol/aiml/blob/main/remote_simulation_analysis.ipynb"> here </a> is a Python notebook showing one of the applications of the tool for performing remote physics simulations (also called reservoir simulation in oil and gas industry). The tool was also used to generate the results presented at this <a href="http://onwunalu.com/petroleum/"> blog </a>. I have written a paper about this project and it will be presented  at a confererence next year.
 
