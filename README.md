@@ -1,4 +1,5 @@
 ### Hi 👋
+[![GitHub Views](https://komarev.com/ghpvc/?username=jeosol&color=FAC151)][1]
 
 I am an engineer with interests in optimization, machine learning/AI, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large optimization problems with application focused in the oil and gas industry. 
 
