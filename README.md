@@ -3,7 +3,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=jeosol&color=FAC151)
 ![Profile views](https://gpvc.arturio.dev/jeosol)
 -->
-Results-oriented machine learning engineering leader with several years of experience building and scaling ML infrastructure, including offline inference platforms and distributed systems. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies.
+Results-oriented machine learning engineer with several years of experience building and scaling ML infrastructure, including offline inference platforms and distributed systems. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies.
 Experienced in project management, personnel training, development and mentoring of young engineers.
 
 <!--I am an engineer with interests in machine learning/AI, optimization, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large-scale problems with applications in AI, Machine learning. -->
