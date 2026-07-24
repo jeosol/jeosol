@@ -1,4 +1,4 @@
-### Hi 👋
+<!-- ### Hi 👋 -->
 <!--
 ![GitHub Views](https://komarev.com/ghpvc/?username=jeosol&color=FAC151)
 ![Profile views](https://gpvc.arturio.dev/jeosol)
