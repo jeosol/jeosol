@@ -9,7 +9,7 @@
 
 Results-oriented machine learning engineer with several years of experience building optimization and machine learning applications. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies. Experienced in project management, personnel training, development and mentoring of young engineers.
 
-I am currently focusing eep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. 
+I am currently focusing deep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. 
 
 <!--I am an engineer with interests in machine learning/AI, optimization, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large-scale problems with applications in AI, Machine learning. -->
 
