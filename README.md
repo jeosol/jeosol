@@ -5,7 +5,7 @@
 -->
 # Jérôme Onwunalu, PhD
 
-**[ML Systems & Performance | Reinforcement Learning]**
+**[ML Systems & Performance | Reinforcement Learning | Optimization]**
 
 Results-oriented machine learning engineer with several years of experience building optimization and machine learning applications. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies. Experienced in project management, personnel training, development and mentoring of young engineers.
 
