@@ -11,7 +11,39 @@ Results-oriented machine learning engineer with several years of experience buil
 
 I am currently focusing deep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. 
 
+---
 
+## 🚀 Featured Alignment & Systems Projects
+
+### 1. LLM Alignment Evaluation & Optimization Framework
+* **Target Focus**: Reinforcement Learning / ML Systems
+* **Core Tech**: PyTorch, PEFT (QLoRA), Transformers, BitsAndBytes, Anthropic SDK
+* **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
+* **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
+* **[Link to Repository]**
+
+### 2. Cloud-Native Distributed Optimization Engine (Core System Proxy)
+* **Target Focus**: ML Systems & Performance / Stochastic Optimization
+* **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
+* **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: *"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* (Presented at ELS).
+* **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
+* **[Link to Repository]**
+
+---
+
+## 📈 Technical Competency Matrix
+
+* **AI/ML Alignment**: DPO, PPO, Reward Modeling, Reward Hacking Mitigation, Telemetry Integration
+* **ML Systems & Optimization**: QLoRA (NF4), 8-bit Paged Optimizers, Gradient Checkpointing, Mixed-Precision (bf16)
+* **Infrastructure & MLOps**: Kubernetes (GKE), Docker, Ray, High-Performance Computing (HPC), Microservices
+* **Languages**: Python (Production), Go, C++, Common Lisp (Symbolic Knowledge Systems)
+
+---
+
+## 📝 Research & Publications
+* **Onwunalu, J.** "Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application." *19th European Lisp Symposium, May 11-12, Krakow, Poland*. 
+* Developed meta-optimization and stochastic algorithms (Genetic Algorithms, Particle Swarm Optimization) for complex high-dimensional multi-modal computational problems during PhD at Stanford University.
+* 
 <!--I am an engineer with interests in machine learning/AI, optimization, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large-scale problems with applications in AI, Machine learning. -->
 
 <!--
