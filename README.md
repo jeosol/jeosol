@@ -25,7 +25,7 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 ### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine
 * **Target Focus**: ML Systems & Performance / Stochastic Optimization
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
-* **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: *"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* (Presented at ELS'26).
+* **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
 * **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
 * **[Link to Repository]**
 
