@@ -22,7 +22,7 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 * **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
 * **[Link to Repository]**
 
-### 2. Cloud-Native Distributed Optimization Engine (Core System Proxy)
+### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine (Core System Proxy)
 * **Target Focus**: ML Systems & Performance / Stochastic Optimization
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
 * **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: *"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* (Presented at ELS).
