@@ -22,10 +22,10 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 * **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
 * **[Link to Repository]**
 
-### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine (Core System Proxy)
+### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine
 * **Target Focus**: ML Systems & Performance / Stochastic Optimization
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
-* **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: *"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* (Presented at ELS).
+* **System Capabilities**: A clean-room open-source proxy demonstrating the distributed execution architecture discussed in my published paper: *"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* (Presented at ELS'26).
 * **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
 * **[Link to Repository]**
 
@@ -36,12 +36,12 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 * **AI/ML Alignment**: DPO, PPO, Reward Modeling, Reward Hacking Mitigation, Telemetry Integration
 * **ML Systems & Optimization**: QLoRA (NF4), 8-bit Paged Optimizers, Gradient Checkpointing, Mixed-Precision (bf16)
 * **Infrastructure & MLOps**: Kubernetes (GKE), Docker, Ray, High-Performance Computing (HPC), Microservices
-* **Languages**: Python (Production), Go, C++, Common Lisp (Symbolic Knowledge Systems)
+* **Languages**: Python, Go, C++, Common Lisp (Symbolic Knowledge Systems)
 
 ---
 
 ## 📝 Research & Publications
-* **Onwunalu, J.** "Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application." *19th European Lisp Symposium, May 11-12, Krakow, Poland*. 
+* **Onwunalu, J.** <a href="https://doi.org/10.5281/zenodo.20171866"> "Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application." *19th European Lisp Symposium, May 11-12, Krakow, Poland* </a>. 
 * Developed meta-optimization and stochastic algorithms (Genetic Algorithms, Particle Swarm Optimization) for complex high-dimensional multi-modal computational problems during PhD at Stanford University.
 * 
 <!--I am an engineer with interests in machine learning/AI, optimization, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large-scale problems with applications in AI, Machine learning. -->
