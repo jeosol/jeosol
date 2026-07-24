@@ -17,7 +17,7 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 
 ### 1. LLM Alignment Evaluation & Optimization Framework
 * **Target Focus**: Reinforcement Learning / ML Systems
-* **Core Tech**: PyTorch, PEFT (QLoRA), Transformers, BitsAndBytes, Anthropic SDK
+* **Core Tech**: PyTorch, PEFT (QLoRA), Transformers <!-- BitsAndBytes, Anthropic SDK -->
 * **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
 * **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
 * **[Link to Repository]**
