@@ -40,9 +40,9 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 
 ---
 
-## 📝 Research & Publications
+## 📝 Recent Research & Publications
 * **Onwunalu, J.** <a href="https://doi.org/10.5281/zenodo.20171866"> "Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application." *19th European Lisp Symposium, May 11-12, Krakow, Poland* </a>. 
-* Developed meta-optimization and stochastic algorithms (Genetic Algorithms, Particle Swarm Optimization) for complex high-dimensional multi-modal computational problems during PhD at Stanford University.
+<!-- * Developed meta-optimization and stochastic algorithms (Genetic Algorithms, Particle Swarm Optimization) for complex high-dimensional multi-modal computational problems during PhD at Stanford University. -->
 * 
 <!--I am an engineer with interests in machine learning/AI, optimization, large-scale software design and implementation. I studied Engineering in school and my research focused on developing efficient algorithms and workflows for large-scale problems with applications in AI, Machine learning. -->
 
