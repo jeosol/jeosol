@@ -9,7 +9,7 @@
 
 Results-oriented machine learning engineer with several years of experience building optimization and machine learning applications. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies. Experienced in project management, personnel training, development and mentoring of young engineers.
 
-I am currently focusing deep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. 
+I am currently focusing deep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. I am currently learning related concepts via HuggingFace courses <a href="https://huggingface.co/learn/smol-course/unit0/1">Smol Course </a>, <a href="https://huggingface.co/learn/llm-course/chapter1/1">LLM Course </a>.
 
 ---
 
