@@ -23,7 +23,7 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 * -->
 ## 🚀 Featured Projects 
 
-### 1. LLM Alignment Evaluation & Optimization Framework (<a href="https://huggingface.co/learn/smol-course/unit0/1">HuggingFace Course: Smol Course</a>)
+### 1. LLM Alignment Evaluation & Optimization Framework (Self study <a href="https://huggingface.co/learn/smol-course/unit0/1">HuggingFace Course: Smol Course</a>)
 * **Target Focus**: LLM Fine-Tuning, Instruction Tuning, Preference Alignment, Reinforcement Learning / ML Systems
 * **Core Tech**: Python, PyTorch, PEFT (QLoRA), Transformers <!-- BitsAndBytes, Anthropic SDK -->
 * **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
