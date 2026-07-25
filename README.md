@@ -31,7 +31,7 @@ I am focusing on AI/machine learning, optimization frameworks, and high-performa
 * **<a href="https://github.com/jeosol/smol-course">Repo</a>**
 
 ### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine (Large-scale multi-year project)
-* **Target Focus**: ML Systems & Performance / Stochastic Optimization
+* **Target Focus**: ML Systems & Performance / Stochastic Optimization / High-dimensional simulation
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
 * **System Capabilities**: Some aspects of the project are described in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
 * **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
