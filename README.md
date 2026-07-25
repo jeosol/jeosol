@@ -9,7 +9,7 @@
 
 Results-oriented machine learning engineer with several years of experience building optimization and machine learning applications. Proven ability to drive technical vision, mentor engineering teams, and deliver impactful solutions leveraging large language models (LLMs), MLOps, containerization, and orchestration technologies. Experienced in project management, personnel training, development and mentoring of young engineers.
 
-I am focusing on AI/machine learning, optimization frameworks, and high-performance computing. To build better models, I am expanding my knowledge of LLM fine-tuning and alignment techniques through Hugging Face courses:  <a href="https://huggingface.co/learn/smol-course/unit0/1">Smol Course </a>, <a href="https://huggingface.co/learn/llm-course/chapter1/1">LLM Course </a>.
+I am focusing on AI/machine learning, optimization frameworks, and high-performance computing. To build better models, I am expanding my knowledge of LLM fine-tuning and alignment techniques through Hugging Face courses:  <a href="https://huggingface.co/learn/smol-course/unit0/1">Smol Course </a>, <a href="https://huggingface.co/learn/llm-course/chapter1/1">LLM Course </a> and reading related LLM research papers. 
 
 ---
 <!-- Featured Alignment & Systems Projects 
