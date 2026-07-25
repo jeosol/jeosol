@@ -12,20 +12,28 @@ Results-oriented machine learning engineer with several years of experience buil
 I am currently focusing deep learning systems engineer specializing in optimization frameworks, empirical model alignment evaluation, and high-performance execution backends. I am currently learning related concepts via HuggingFace courses <a href="https://huggingface.co/learn/smol-course/unit0/1">Smol Course </a>, <a href="https://huggingface.co/learn/llm-course/chapter1/1">LLM Course </a>.
 
 ---
-
-## 🚀 Featured Alignment & Systems Projects
-
+<!-- Featured Alignment & Systems Projects 
 ### 1. LLM Alignment Evaluation & Optimization Framework
 * **Target Focus**: Reinforcement Learning / ML Systems
-* **Core Tech**: PyTorch, PEFT (QLoRA), Transformers <!-- BitsAndBytes, Anthropic SDK -->
+* **Core Tech**: PyTorch, PEFT (QLoRA), Transformers  BitsAndBytes, Anthropic SDK 
 * **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
 * **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
 * **[Link to Repository]**
 
+* -->
+## 🚀 Featured Projects 
+
+### 1. LLM Alignment Evaluation & Optimization Framework (<a href="https://huggingface.co/learn/smol-course/unit0/1">HuggingFace Course: Smol Course</a>)
+* **Target Focus**: LLM Fine-Tuning, Instruction Tuning, Preference Alignment, Reinforcement Learning / ML Systems
+* **Core Tech**: Python, PyTorch, PEFT (QLoRA), Transformers <!-- BitsAndBytes, Anthropic SDK -->
+* **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
+* **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
+* **<a href="https://github.com/jeosol/smol-course">Repo</a>**
+
 ### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine
 * **Target Focus**: ML Systems & Performance / Stochastic Optimization
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
-* **System Capabilities**: Some aspects of the project is describe in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
+* **System Capabilities**: Some aspects of the project are described in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
 * **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
 * <a href="https://youtu.be/jHBw_BX71bA">**Repo**</a> (Repo is not hosted publicly due to proprietary restrictions)
 
