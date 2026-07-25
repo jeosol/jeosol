@@ -24,10 +24,10 @@ I am focusing on AI/machine learning, optimization frameworks, and high-performa
 ## 🚀 Featured Projects 
 
 ### 1. LLM Alignment Evaluation & Optimization Framework (Self study <a href="https://huggingface.co/learn/smol-course/unit0/1">HuggingFace Course: Smol Course</a>)
-* **Target Focus**: LLM Fine-Tuning, Instruction Tuning, Preference Alignment, Reinforcement Learning / ML Systems
-* **Core Tech**: Python, PyTorch, PEFT (QLoRA), Transformers <!-- BitsAndBytes, Anthropic SDK -->
-* **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies.
-* **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation.
+* **Target Focus**: LLM Fine-Tuning, Instruction Tuning, Preference Alignment, DPO, Reinforcement Learning / ML Systems
+* **Core Tech**: Python, PyTorch, PEFT (QLoRA), Transformers, TRL <!-- BitsAndBytes, Anthropic SDK 
+* **System Capabilities**: An end-to-end alignment validation pipeline implementing Direct Preference Optimization (DPO). It includes custom telemetry logging blocks for real-time tracking of implicit reward accuracy, log-likelihood margins, and empirical KL-divergence proxies. 
+* **Evaluation Stack**: Includes a production-ready **LLM-as-a-Judge pipeline** featuring bidirectional position-swap bias mitigation and length-normalized reward adjustments to isolate true alignment from verbosity exploitation. -->
 * **<a href="https://github.com/jeosol/smol-course">Repo</a>**
 
 ### 2. Cloud-Native Distributed High-dimensional Simulation and Optimization Engine (Large-scale multi-year project)
