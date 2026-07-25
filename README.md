@@ -41,8 +41,8 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 
 ## 📈 Technical Competency Matrix
 
-* **AI/ML Alignment**: DPO, PPO, Reward Modeling, Reward Hacking Mitigation, Telemetry Integration
-* **ML Systems & Optimization**: QLoRA (NF4), 8-bit Paged Optimizers, Gradient Checkpointing, Mixed-Precision (bf16)
+<!--* **AI/ML Alignment**: DPO, PPO, Reward Modeling, Reward Hacking Mitigation, Telemetry Integration
+* **ML Systems & Optimization**: QLoRA (NF4), 8-bit Paged Optimizers, Gradient Checkpointing, Mixed-Precision (bf16) -->
 * **Infrastructure & MLOps**: Kubernetes (GKE), Docker, Ray, High-Performance Computing (HPC), Microservices
 * **Languages**: Python, Go, C++, Common Lisp (Symbolic Knowledge Systems)
 
