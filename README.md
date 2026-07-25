@@ -35,7 +35,7 @@ I am currently focusing deep learning systems engineer specializing in optimizat
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
 * **System Capabilities**: Some aspects of the project are described in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
 * **Scale**: Showcases containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
-* <a href="https://youtu.be/jHBw_BX71bA">**Repo**</a> (Repo is not hosted publicly due to proprietary restrictions)
+* <a href="https://youtu.be/jHBw_BX71bA">**Repo**</a> (Repo is not hosted publicly due to proprietary restrictions, so the link shows a Gource visualization  of the repo.)
 
 ---
 
