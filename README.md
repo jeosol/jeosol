@@ -35,7 +35,7 @@ I am focusing on AI/machine learning, optimization frameworks, and high-performa
 * **Core Tech**: Python, Kubernetes (GKE), Docker, Microservices, REST APIs
 * **System Capabilities**: Some aspects of the project are described in my published paper: <a href="https://doi.org/10.5281/zenodo.20171866">*"Taming Complexity: Building and Deploying a 270KLOC Integrated Scientific Application"* </a> (Presented at ELS'26).
 * **Scale**: Containerized, multi-threaded worker pools on Kubernetes designed for massive, automated parallel exploration of high-dimensional parameter spaces.
-* <a href="https://youtu.be/jHBw_BX71bA">**Repo**</a>. (Note: The project's repository is not hosted publicly due to proprietary restrictions, so the link shows a Gource visualization  of the repository.)
+* <a href="https://youtu.be/jHBw_BX71bA">**Repo**</a>. (Note: The project's repository is not hosted publicly due to restrictions, so the link shows a Gource visualization  of the repository.)
 * <a href="https://colab.research.google.com/drive/1F-z62_AnXGt-T9GoLEeGrT_-kLwky-6P#scrollTo=dQhORnJaIrDB">**Data analysis**</a> Analysis of Docker images build times and Kubernetes (K8s) manifest synchronization times.
 ---
 
