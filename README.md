@@ -44,7 +44,7 @@ I am focusing on AI/machine learning, optimization frameworks, and high-performa
 <!--* **AI/ML Alignment**: DPO, PPO, Reward Modeling, Reward Hacking Mitigation, Telemetry Integration
 * **ML Systems & Optimization**: QLoRA (NF4), 8-bit Paged Optimizers, Gradient Checkpointing, Mixed-Precision (bf16) -->
 * **Infrastructure & MLOps**: Kubernetes (GKE), Docker, Ray, High-Performance Computing (HPC), Microservices
-* **Languages**: Python, Go, C++, Common Lisp (Symbolic Knowledge Systems)
+* **Languages**: Python, Go, Common Lisp (Symbolic Knowledge Systems)
 
 ---
 
